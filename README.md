@@ -14,15 +14,15 @@
 
 ### Splash Screen
 
-splash_screen.png
+splash_screen.jpg
 
 ### Home Screen
 
-Home_screen.png
+Home_screen.jpg
 
 ### About Screen
 
-About_Screen.png
+About_Screen.jpg
 
 ## 🛠️ Technologies
 
