@@ -13,16 +13,13 @@
 ## 📱 Screenshots
 
 ### Splash Screen
+## 📸 Screenshots
 
-splash_screen.jpg
+[![PDF Tool](Home_screen.jpg)](Home_screen.jpg)
 
-### Home Screen
+[![PDF Tool](About_Screen.jpg)](About_Screen.jpg)
 
-Home_screen.jpg
-
-### About Screen
-
-About_Screen.jpg
+[![PDF Tool](splash_screen.jpg)](splash_screen.jpg)
 
 ## 🛠️ Technologies
 
