@@ -12,12 +12,17 @@
 
 ## 📱 Screenshots
 
-### PDF Tools
-‎file_00000000607481fa9f2c0470e11c5446.png
+### Splash Screen
 
-### All Layouts
+splash_screen.png
 
-file_000000001fd881fa993f122c90278ef1.png
+### Home Screen
+
+Home_screen.png
+
+### About Screen
+
+About_Screen.png
 
 ## 🛠️ Technologies
 
